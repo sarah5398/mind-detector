@@ -67,6 +67,7 @@ Google NMT API
 #### 공공데이터 분석
 
 [지역별, 연령별, 성별, 직업별 자살률 공공데이터](http://kostat.go.kr/portal/korea/index.action)를 참고하여 우울증 취약계층을 파악한 후 이를 우울 지수 계산에 반영
+
 [정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/) 자료를 토대로 상담 센터 정보 
 - - -
 ### :high_brightness: 기대 효과
