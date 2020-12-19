@@ -78,7 +78,7 @@ Google NMT API
 
 저희 서비스는 추후에 음성을 텍스트로 변환해주는 api를 활용하여 음성 서비스를 지원할 예정입니다. 이를 통해 시각장애인과 글을 읽고 쓰지 못하는 국민들이 소외되지 않고, 자유롭게 마인드디텍터 서비스를 누릴 수 있을 것입니다.
 - - -
-### :page_facing_up: 활용 데이터 및 참고 문헌
+### :pushpin: 활용 데이터 및 참고 문헌
 #### 적용 데이터
 [우울증 진단 문항 CES-D](https://www.midss.org/content/center-epidemiologic-studies-depression-scale-ces-d)
 
