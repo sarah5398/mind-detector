@@ -38,9 +38,15 @@
 
 [5가지 감정(기쁨, 중립, 슬픔, 화남, 두려움) 분류 데이터셋](https://github.com/lukasgarbas/nlp-text-emotion)
 
+#### 번역 API
+
+
 #### 감성 분석 모델
 
-[링크](https://github.com/wansook0316/emotion_analysis), [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)를 토대로 모델 학습 
+[링크](https://github.com/wansook0316/emotion_analysis)
+
+참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)
+
 
 #### 웹개발
 
