@@ -39,13 +39,11 @@
 [5가지 감정(기쁨, 중립, 슬픔, 화남, 두려움) 분류 데이터셋](https://github.com/lukasgarbas/nlp-text-emotion)
 
 #### 번역 API
-
+Google NMT API
 
 #### 감성 분석 모델
 
-[링크](https://github.com/wansook0316/emotion_analysis)
-
-참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)
+[링크](https://github.com/wansook0316/emotion_analysis)(참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT))
 
 
 #### 웹개발
@@ -66,3 +64,23 @@
 #### 음성 서비스 지원을 통한 '소외되는 국민 없는' 온라인 우울감 자가검진 서비스
 
 저희 서비스는 추후에 음성을 텍스트로 변환해주는 api를 활용하여 음성 서비스를 지원할 예정입니다. 이를 통해 시각장애인과 글을 읽고 쓰지 못하는 국민들이 소외되지 않고, 자유롭게 마인드디텍터 서비스를 누릴 수 있을 것입니다.
+
+### :clipboard: 활용 및 참고
+적용 데이터
+[우울증 진단 문항 CES-D](https://www.midss.org/content/center-epidemiologic-studies-depression-scale-ces-d)
+[Emotion Classification in Short Messages](https://github.com/lukasgarbas/nlp-text-emotion)
+[한국생명의전화](https://lifeline.or.kr/business/board.php?page=1&gubun=public&keyfield=&keyword=&keyCate=)
+
+공공데이터
+[자살률 현황](http://kostat.go.kr/portal/korea/index.action)
+[정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/)
+
+
+참고 문헌
+[1] 이수정 외 3, 2020.3, 우리나라 성인 자살 관련 외상 경험과 자살태도, 우울, 자기효능감, 사회적 지지와의 관계, https://ir.ymlib.yonsei.ac.kr/bitstream/22282913/176042/1/T202001214.pdf
+[2] 남미희 외 6, 2011.4, 우울증, 자살 그리고 한국사회, https://synapse.koreamed.org/upload/SynapseData/PDFData/0119jkma/jkma-54-358.pdf
+[3]김범진, 2018.11, 트럼프 당선 에측했던 그 분석 인간의 언어에서 감정을 읽어내, https://dbr.donga.com/article/view/1202/article_no/8892/ac/magazine
+[4]남미희 외 6, 2011.4, 우울증, 자살 그리고 한국사회
+jkma-54-358.pdf (koreamed.org)
+[5] 이하은, 2020.11, 코로나19로 자살시도 급증…정부, 전 국민 대상으로 대책 마련
+http://news.unn.net/news/articleView.html?idxno=500523
