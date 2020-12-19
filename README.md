@@ -35,18 +35,21 @@
 
 ### :musical_note: 적용 기술
 > 감성 분석 모델 학습 데이터셋
+
 [5가지 감정(기쁨, 중립, 슬픔, 화남, 두려움) 분류 데이터셋](https://github.com/lukasgarbas/nlp-text-emotion)
 
 > 감성 분석 모델
+
 [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)
 
 > 웹개발
 프론트엔드:  html, styled-components, typescript, React.js, react-router-dom, Redux 라이브러리, Redux-Saga 미들웨어, prettier, eslint
 백엔드: node.js, express, python, flask, boto3, AWS, docker, kubernetes, jenkins, github webhook
 
-> 공공데이터 분석 및 적용: 
+> 공공데이터 분석 및 적용
+
 [지역별, 연령별, 성별, 직업별 자살률 공공데이터(http://kostat.go.kr/portal/korea/index.action)를 참고하여 우울증 취약계층을 파악한 후 이를 우울 지수 계산에 반영
-[정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/) 자료를 토대로 상담 센터 방문하도록 유도
+[정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/) 자료를 토대로 상담 센터 정보 
 
 ### 기대 효과
 우울감 자가진단 서비스에 대한 진입장벽을 낮추고, 전 국민이 상시로 마음을 돌볼 수 있도록 하여 국민 정신건강 증진이 가능하도록 합니다.
