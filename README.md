@@ -7,7 +7,7 @@
 :globe_with_meridians: [웹사이트 방문](http://minddetector.me/)
 
 :movie_camera: [시연 영상](http://minddetector.me/)
-
+- - -
 ### :book: 사용법
 
 #### [STEP :one:]
