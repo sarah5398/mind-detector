@@ -40,13 +40,13 @@
 
 #### 감성 분석 모델
 
-[SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)
+[링크](https://github.com/wansook0316/emotion_analysis), [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)를 토대로 모델 학습 
 
 #### 웹개발
 
-프론트엔드:  html, styled-components, typescript, React.js, react-router-dom, Redux 라이브러리, Redux-Saga 미들웨어, prettier, eslint
+프론트엔드: 
 
-백엔드: node.js, express, python, flask, boto3, AWS, docker, kubernetes, jenkins, github webhook
+백엔드: [링크1](https://github.com/penguin234/mind-detector-utils), [링크2](https://github.com/penguin234/mind-detector-operation)
 
 #### 공공데이터 분석 및 적용
 
