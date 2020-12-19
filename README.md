@@ -43,6 +43,7 @@
 [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT)
 
 > 웹개발
+
 프론트엔드:  html, styled-components, typescript, React.js, react-router-dom, Redux 라이브러리, Redux-Saga 미들웨어, prettier, eslint
 백엔드: node.js, express, python, flask, boto3, AWS, docker, kubernetes, jenkins, github webhook
 
@@ -51,10 +52,10 @@
 [지역별, 연령별, 성별, 직업별 자살률 공공데이터(http://kostat.go.kr/portal/korea/index.action)를 참고하여 우울증 취약계층을 파악한 후 이를 우울 지수 계산에 반영
 [정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/) 자료를 토대로 상담 센터 정보 
 
-### 기대 효과
+### :high_brightness: 기대 효과
 우울감 자가진단 서비스에 대한 진입장벽을 낮추고, 전 국민이 상시로 마음을 돌볼 수 있도록 하여 국민 정신건강 증진이 가능하도록 합니다.
 
-### 향후 계획
+### :clipboard: 향후 계획
 > 음성 서비스 지원을 통한 '소외되는 국민 없는' 온라인 우울감 자가검진 서비스
 
 저희 서비스는 추후에 음성을 텍스트로 변환해주는 api를 활용하여 음성 서비스를 지원할 예정입니다. 이를 통해 시각장애인과 글을 읽고 쓰지 못하는 국민들이 소외되지 않고, 자유롭게 마인드디텍터 서비스를 누릴 수 있을 것입니다.
