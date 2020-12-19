@@ -55,14 +55,14 @@ Google NMT API
 
 #### 감성 분석 모델
 
-[링크](https://github.com/wansook0316/emotion_analysis)(참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT))
+[깃허브](https://github.com/wansook0316/emotion_analysis)(참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT))
 
 
 #### 웹개발
 
-프론트엔드: [링크](https://github.com/seung-00/mind-detector-front)
+프론트엔드: [깃허브](https://github.com/seung-00/mind-detector-front)
 
-백엔드: [링크1](https://github.com/penguin234/mind-detector-utils), [링크2](https://github.com/penguin234/mind-detector-operation)
+백엔드: [깃허브1](https://github.com/penguin234/mind-detector-utils), [깃허브2](https://github.com/penguin234/mind-detector-operation)
 
 #### 공공데이터 분석
 
