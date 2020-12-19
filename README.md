@@ -1,14 +1,13 @@
-# :dart:마음을 읽는 AI 우울감 자가진단 서비스, 마인드디텍터
+# 마음을 읽는 AI 우울감 자가진단 서비스, 마인드디텍터
 
 
-#### 코로나19가 전 세계를 휩쓴 2020년, 대한민국 :kr: 안녕하신가요? 
+#### 코로나19가 전 세계를 휩쓴 2020년, 대한민국 안녕하신가요? 
 #### 범국민적 '마음 방역'의 시작을 위해 AI 우울감 자가진단 서비스를 새롭게 선보입니다.
 
-- - -
-[웹사이트 방문](http://minddetector.me/)
+:globe_with_meridians: [웹사이트 방문](http://minddetector.me/)
 
-[시연 영상](http://minddetector.me/)
-- - -
+:movie_camera: [시연 영상](http://minddetector.me/)
+
 ### :book: 사용법
 
 #### [STEP :one:]
