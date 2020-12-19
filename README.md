@@ -45,6 +45,7 @@
 > 웹개발
 
 프론트엔드:  html, styled-components, typescript, React.js, react-router-dom, Redux 라이브러리, Redux-Saga 미들웨어, prettier, eslint
+
 백엔드: node.js, express, python, flask, boto3, AWS, docker, kubernetes, jenkins, github webhook
 
 > 공공데이터 분석 및 적용
