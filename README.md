@@ -29,6 +29,7 @@
 :four: AI 모델와 공공데이터의 정보가 대신 우울 지수를 측정합니다.
 
 4 단계를 완료하면 따뜻한 위로 글귀와 노랫말을 띄워 온기를 받을 수 있으며, 우울증 의심 유저의 경우 근처 상담센터의 정보를 추가로 제공하여 전문의와의 상담을 권유합니다.
+
 - - -
 ### :eyes: 제안이유
 #### 국민 ‘마음 방역’의 필요성
@@ -46,6 +47,11 @@
 이에 저희는 시대의 흐름과 기술의 발전에 발맞춰, 감성 분석기술을 기반으로 한 우울감 자가진단 서비스를 제안하고자 합니다. <mark>표준 우울증 진단 문항 CES-D</mark>를 기반으로 문항을 제작하였고, 그에 대한 유저의 답변을 토대로 그날의 우울 지수를 제공하도록 하였습니다. 이후 단계에 맞춘 마음 방역을 제안, 근처 상담센터에 대한 위치정보를 제공합니다. 차갑고 딱딱한 기존의 검진표가 아닌 일상적 상황에 대한 유저의 진실한 감정을 바탕으로 하여 우울감 자가진단에 대한 진입장벽을 낮춥니다. 전 국민이 상시로 마음을 돌볼 수 있도록 하여 국민 정신건강 증진을 목표로 합니다.
 - - -
 ### :musical_note: 적용 기술
+
+### Architecture
+
+<img src ="https://user-images.githubusercontent.com/46865281/102685064-15add580-4221-11eb-8562-5f59a23eb6a2.png" width="700px" height="430px">
+
 #### 감성 분석 모델 학습 데이터셋
 
 [5가지 감정(기쁨, 중립, 슬픔, 화남, 두려움) 분류 데이터셋](https://github.com/lukasgarbas/nlp-text-emotion)
@@ -60,15 +66,24 @@ Google NMT API
 
 #### 웹개발
 
-프론트엔드: [깃허브](https://github.com/seung-00/mind-detector-front)
+front: [깃허브](https://github.com/seung-00/mind-detector-front)
 
-백엔드: [깃허브1](https://github.com/penguin234/mind-detector-utils), [깃허브2](https://github.com/penguin234/mind-detector-operation)
+ * React, Redux, Redux-Saga, styled-components, typescript
+
+back: [깃허브1](https://github.com/penguin234/mind-detector-utils), [깃허브2](https://github.com/penguin234/mind-detector-operation)
+
+* PostgreSQL, flask, express, Docker, kubernetes, nginx
 
 #### 공공데이터 분석
 
 [지역별, 연령별, 성별, 직업별 자살률 공공데이터](http://kostat.go.kr/portal/korea/index.action)를 참고하여 우울증 취약계층을 파악한 후 이를 우울 지수 계산에 반영
 
 [정신건강복지센터 설치운영 현황](http://www.mohw.go.kr/upload/viewer/skin/doc.html?fn=1560908774347_20190619104614.hwp&rs=/upload/viewer/result/202012/) 자료를 토대로 상담 센터 정보 
+
+#### Notion 을 활용한 협업
+
+[workspace](https://www.notion.so/00data/)
+
 - - -
 ### :high_brightness: 기대 효과
 우울감 자가진단 서비스에 대한 진입장벽을 낮추고, 전 국민이 상시로 마음을 돌볼 수 있도록 하여 국민 정신건강 증진이 가능하도록 합니다.
