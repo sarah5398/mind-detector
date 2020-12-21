@@ -63,6 +63,7 @@ Google NMT API
 
 [깃허브](https://github.com/wansook0316/emotion_analysis)(참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT))
 
+![모델 결과](https://user-images.githubusercontent.com/44315967/102754370-3b1d1980-43b0-11eb-9a2c-23478b660b0e.png)
 
 #### 웹개발
 
