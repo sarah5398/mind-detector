@@ -6,7 +6,7 @@
 
 :globe_with_meridians: [웹사이트 방문](http://minddetector.me/)
 
-:movie_camera: [시연 영상](http://minddetector.me/)
+:movie_camera: [시연 영상](https://www.youtube.com/watch?v=tsU0ktw2vV4&feature=youtu.be)
 - - -
 ### :pushpin: 마인드 디텍터의 핵심 역할
 
