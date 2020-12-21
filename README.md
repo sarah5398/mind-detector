@@ -63,7 +63,7 @@ Google NMT API
 
 [깃허브](https://github.com/wansook0316/emotion_analysis)(참조: [SKT Brain KoBert](https://github.com/SKTBrain/KoBERT))
 
-![모델 결과](https://user-images.githubusercontent.com/44315967/102754370-3b1d1980-43b0-11eb-9a2c-23478b660b0e.png)
+![모델 결과](https://user-images.githubusercontent.com/44315967/102755839-525d0680-43b2-11eb-920d-0af875240553.png)
 
 
 #### 우울감 척도 설정
